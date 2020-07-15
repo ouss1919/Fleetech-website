@@ -1,0 +1,5 @@
+1. integrer postgresql avec xampp ---> https://www.youtube.com/watch?v=DFvBnsY15Bo&t=302s
+2. importer la BDD dans phppgadmin -----> http://localhost/phppgadmin/
+3. déposer le dossier Army-app dans htdocs dans -----> \xampp\htdocs
+4. entrer dans http://127.0.0.1/Army-App/login.php username = 'oussama19' password = 'admin'  ou 
+username = 'imene35' password = '1234'
